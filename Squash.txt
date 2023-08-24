@@ -1,3 +1,4 @@
 Adding provison for squashing
 More commit provision
 Merge Conflict provison in test branch
+Add provison for merge conflict
