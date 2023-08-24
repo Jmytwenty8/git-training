@@ -1,2 +1,5 @@
 Adding provison for squashing
 More commit provision
+Merge Conflict provison in test branch
+Add provison for merge conflict
+Add provison for named Squash Index for commits
