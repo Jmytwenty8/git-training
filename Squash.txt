@@ -1,2 +1,3 @@
 Adding provison for squashing
 More commit provision
+Add provison for merge conflict
